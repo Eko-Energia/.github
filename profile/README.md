@@ -58,18 +58,14 @@ Write meaningful commit messages:
 
 ❌ update
 
-## ✅ Best Practices
+## 🧙 Best Practices
 Keep code clear and **consistent**
-
-Use comments and documentation
 
 Keep README.md up to date
 
-Archive old projects if inactive
+**Review code and don`t leave mess**
 
-Review code via PRs whenever possible
-
-## 📞 Questions?
+---
 Contact project [OlaszPL-Olek](https://github.com/OlaszPL) or [Kacperon-Kacper](https://github.com/Kacperon).
 Contributions welcome!
 
