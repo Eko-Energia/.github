@@ -5,16 +5,20 @@ AGH Eko-Energia Student Research Group was founded in 2007 at AGH University of 
 ---
 
 # 📋 GitHub Repository Guidelines
+
 ## 📦 Repository Naming
+
 - Use **English**, lowercase, `kebab-case`
 - Be specific and clear (avoid generic names)
 - One repository = one project or one board
 
 **✅ Examples:**
+
 - `perla-parameters-monitor`
 - `halina-stm-brake`
 
 ## 📁 Standard Folder Structure
+
 ```
 📂project-name/
 ├── README.md # Required
@@ -30,15 +34,23 @@ AGH Eko-Energia Student Research Group was founded in 2007 at AGH University of 
 ## 📝 README.md Template
 
 Each repository **must include a README.md** with at least:
+
 ### 🔧 Project Name
+
 Short 1–2 sentence description.
-### 🚀 Goal
+
+### 🚀 Goal (Optional)
+
 What the project aims to achieve. Technologies used. Current status (WIP / complete / testing).
+
 ### ▶️ How to Run
+
 Steps to build, install, or run locally.
+
 ### 👥 Authors
+
 - Name Surname – role
-- Name Surname – role
+  
 ### 📜 License
 
 ## 🛠 Git Workflow
