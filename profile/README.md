@@ -1,5 +1,79 @@
-## Hi there 👋
+# 📘 AGH Eko-Energia 
+---
+AGH Eko-Energia Student Research Group was founded in 2007 at AGH University of Science and Technology in Kraków. It brings together active students from various faculties, focusing on research and development in renewable energy, electromobility, and modern technologies.
 
+---
+
+# 📋 GitHub Repository Guidelines
+## 📦 Repository Naming
+- Use **English**, lowercase, `kebab-case`
+- Be specific and clear (avoid generic names)
+- One repository = one project or one board
+
+**✅ Examples:**
+- `perla-parameters-monitor`
+- `halina-stm-brake`
+
+## 📁 Standard Folder Structure
+```
+📂project-name/
+├── README.md # Required
+├── LICENSE # Default: MIT
+├── .gitignore
+├─📂 src/
+│ ├─📂 main/
+│ └─📂 test/
+├── hardware/  (if applicable)
+└── .github  (optional)
+```
+
+## 📝 README.md Template
+
+Each repository **must include a README.md** with at least:
+### 🔧 Project Name
+Short 1–2 sentence description.
+### 🚀 Goal
+What the project aims to achieve. Technologies used. Current status (WIP / complete / testing).
+### ▶️ How to Run
+Steps to build, install, or run locally.
+### 👥 Authors
+- Name Surname – role
+- Name Surname – role
+### 📜 License
+
+## 🛠 Git Workflow
+
+### Default branch: main
+### Use branches - if you dont work alone !!!
+
+feature/<name> for new features
+
+fix/<name> for bug fixes
+
+### Use Pull Requests for all changes
+
+Write meaningful commit messages:
+
+✅ Add PWM control logic
+
+❌ update
+
+## ✅ Best Practices
+Keep code clear and **consistent**
+
+Use comments and documentation
+
+Keep README.md up to date
+
+Archive old projects if inactive
+
+Review code via PRs whenever possible
+
+## 📞 Questions?
+Contact project [OlaszPL-Olek](https://github.com/OlaszPL) or [Kacperon-Kacper](https://github.com/Kacperon).
+Contributions welcome!
+
+Last updated: July 2025
 <!--
 
 **Here are some ideas to get you started:**
