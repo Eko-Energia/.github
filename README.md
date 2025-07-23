@@ -1,3 +1,1 @@
-# .github
-
-tu będzie poradnik githuba
+A repository with basic information
