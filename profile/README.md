@@ -35,23 +35,23 @@ AGH Eko-Energia Student Research Group was founded in 2007 at AGH University of 
 
 Each repository **must include a README.md** with at least:
 
-### 🔧 Project Name
+### Project Name
 
 Short 1–2 sentence description.
 
-### 🚀 Goal (Optional)
+### Goal (Optional)
 
 What the project aims to achieve. Technologies used. Current status (WIP / complete / testing).
 
-### ▶️ How to Run
+### How to Run
 
 Steps to build, install, or run locally.
 
-### 👥 Authors
+### Authors
 
 - Name Surname – role
   
-### 📜 License
+### License
 
 ## 🛠 Git Workflow
 
